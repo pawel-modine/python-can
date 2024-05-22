@@ -3,3 +3,4 @@ sphinxcontrib-programoutput
 sphinx-inline-tabs
 sphinx-copybutton
 furo
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
